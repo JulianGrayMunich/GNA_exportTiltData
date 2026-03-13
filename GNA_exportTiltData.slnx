@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../../DBapi/databaseAPI/databaseAPI.csproj" />
+  <Project Path="../../gnaDataClasses/gnaDataClasses/gnaDataClasses.csproj" />
+  <Project Path="../../GNAtools/GNAtools/GNAtools.csproj" />
+  <Project Path="../../GNA_CommercialLicenseValidator/GNA_CommercialLicenseValidator/GNA_CommercialLicenseValidator.csproj" />
+  <Project Path="../../T4Dlibrary/T4Dlibrary/T4Dlibrary.csproj" />
+  <Project Path="GNA_exportTiltData.csproj" />
+</Solution>
