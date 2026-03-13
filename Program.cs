@@ -7,6 +7,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 
+
 using databaseAPI;
 
 using GNA_CommercialLicenseValidator;
@@ -35,12 +36,6 @@ using static GNAgeneraltools.gnaTools;
 
 namespace GNA_exportTiltData
 {
-
-
-
-
-
-
     internal class Program
     {
         static void Main(string[] args)
